@@ -24,23 +24,4 @@ Welcome to my personal portfolio website! This project showcases my profile, ski
 - **Font Awesome 6** – Icons for navigation, services, social media, and contact details.
 - **Google Maps Embed** – Location integration in the contact section.
 
-## 📁 Project Structure
-
-```text
-portfolio/
-├── index.html
-├── Css/
-│   └── style.css
-├── Js/
-│   └── script.js
-└── img/
-    ├── page 1.jpg
-    ├── WhatsApp Image 2023-10-18 at 09.26.28.jpg
-    ├── work-1.png
-    ├── work-2.png
-    ├── work-3.png
-    ├── work-4.jpg
-    ├── work-5.png
-    └── work-6.webp
-```
 
