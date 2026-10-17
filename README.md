@@ -44,31 +44,3 @@ portfolio/
     └── work-6.webp
 ```
 
-## 🚀 Getting Started
-
-Follow these steps to run the project locally.
-
-1. Clone the repository:
-
-   ```bash
-   git clone YOUR_REPOSITORY_URL
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd portfolio
-   ```
-
-3. Open `index.html` in your browser, or use the **Live Server** extension in Visual Studio Code.
-
-## 🎨 Customization
-
-You can personalize the website by:
-
-- Updating your name, introduction, and profile information in `index.html`.
-- Modifying colors, fonts, layouts, and animations in `Css/style.css`.
-- Adding interactive functionality in `Js/script.js`.
-- Replacing images in the `img/` folder.
-- Adding your actual project links and social media profiles.
-- Linking your resume to the **Download CV** button.
