@@ -19,8 +19,6 @@ This portfolio highlights my development journey, technical expertise, and selec
 - **Contact Section:** Contact information and message form.
 - **Social Media Links:** Quick access to social profiles.
 - **Google Maps Integration:** Embedded map in the contact section.
-- **Interactive Navigation:** Sidebar navigation for easy browsing.
-- **Visual Design:** Orange-and-black theme with a clean layout.
 
 ## 🛠️ Technologies Used
 
