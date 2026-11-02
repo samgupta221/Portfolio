@@ -30,33 +30,6 @@ This portfolio highlights my development journey, technical expertise, and selec
 | Font Awesome 6 | Icons |
 | Google Maps Embed | Map integration |
 
-## 📁 Project Structure
-
-```text
-Portfolio/
-│
-├── Css/
-│   └── style.css
-│
-├── img/
-│   ├── fr.22.1.jpg
-│   ├── page_1.jpg
-│   ├── WhatsApp Image 2023-10-18 at 09.26...
-│   ├── work-1.png
-│   ├── work-2.png
-│   ├── work-3.png
-│   ├── work-4.jpg
-│   ├── work-5.png
-│   └── work-6.webp
-│
-├── Js/
-│   └── script.js
-│
-├── index.html
-│
-└── README.md
-```
-
 ## 📸 Website Sections
 
 1. Home
