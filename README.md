@@ -1,7 +1,5 @@
 # 🌐 Personal Portfolio Website
 
-# 🌐 Personal Portfolio Website
-
 Welcome to my personal portfolio website! This project showcases my profile, technical skills, services, experience, projects, and contact information through a clean and visually appealing interface.
 
 ## 👩‍💻 About Me
@@ -61,28 +59,6 @@ Portfolio/
 └── README.md
 ```
 
-## 🚀 Getting Started
-
-Follow these steps to run the project locally.
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/samgupta221/Portfolio.git
-```
-
-### 2. Navigate to the Project Directory
-
-```bash
-cd Portfolio
-```
-
-### 3. Run the Website
-
-Open `index.html` directly in your browser.
-
-Alternatively, use the Live Server extension in Visual Studio Code.
-
 ## 📸 Website Sections
 
 1. Home
@@ -100,26 +76,3 @@ Alternatively, use the Live Server extension in Visual Studio Code.
 - Present projects in an organized and accessible way.
 - Practice HTML, CSS, and JavaScript.
 - Create an online professional presence.
-
-## 🔮 Future Improvements
-
-- Improve mobile responsiveness.
-- Add more projects and case studies.
-- Enhance animations and transitions.
-- Integrate functional contact form submission.
-- Improve accessibility and performance.
-
-## 🔗 Connect With Me
-
-- **GitHub:** [samgupta221](https://github.com/samgupta221)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/)
-
-## 👩‍💻 Author
-
-**Samridhi Gupta**
-
-B.Tech Computer Science Graduate | Front-End Developer
-
----
-
-⭐ If you like this project, consider giving it a star!
