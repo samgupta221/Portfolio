@@ -1,155 +1,127 @@
-# Samridhi Gupta | Frontend Developer Portfolio
+# Personal Portfolio Website
 
-<p align="center">
-  <img src="img/favicon.svg" alt="Samridhi Gupta Logo" width="80" />
-</p>
+A modern, responsive and interactive personal portfolio website built to showcase my professional experience, technical skills, projects, achievements and contact information.
 
-<h2 align="center">Building thoughtful, responsive & interactive web experiences.</h2>
+## Overview
 
-<p align="center">
-  A personal portfolio showcasing my skills, professional experience, projects and achievements.
-</p>
+This portfolio is designed with a clean, minimal and modern interface, featuring a dark-themed layout, elegant typography and subtle interactive elements.
 
-<p align="center">
-  <a href="https://github.com/samgupta221">GitHub</a> •
-  <a href="mailto:samridhigupta2523@gmail.com">Email</a>
-</p>
+It provides a central place to explore my development journey, technical expertise, featured projects and professional background.
 
----
+## Features
 
-## About Me
+- **Modern UI Design** – Clean layout with elegant typography and a consistent visual style.
+- **Responsive Design** – Optimized layouts for desktop, tablet and mobile screens.
+- **Dark & Light Mode** – Theme switching for a comfortable browsing experience.
+- **Interactive Navigation** – Smooth navigation between portfolio sections.
+- **Hero Section** – Introduction with profile image and quick action buttons.
+- **About Section** – Overview of professional background and development interests.
+- **Skills Section** – Technical skills organized into categories.
+- **Experience Section** – Professional experience and educational background.
+- **Projects Showcase** – Featured projects with descriptions and technology details.
+- **Achievements Section** – Certifications, hackathon achievements and milestones.
+- **Contact Section** – Email links, social profiles and contact form interface.
+- **Resume Download** – Quick access to the resume.
 
-Hi, I'm **Samridhi Gupta**, a Computer Science graduate and Frontend Developer passionate about building clean, accessible and high-performance user interfaces.
+## Tech Stack
 
-I work with React, Next.js, TypeScript and modern JavaScript to transform designs into responsive, production-ready web experiences.
+| Technology | Purpose |
+|---|---|
+| HTML5 | Website structure and semantic markup |
+| CSS3 | Styling, layouts, animations and responsiveness |
+| JavaScript (ES6+) | Interactivity and dynamic functionality |
+| SVG | Scalable icons and visual assets |
+| Google Fonts | Typography |
 
-I also have experience with backend technologies, databases and data analytics.
+## Project Structure
 
-- **Focus:** Frontend Development
-- **Education:** B.Tech in Computer Science Engineering
-- **University:** Dr. A. P. J. Abdul Kalam Technical University
-- **Location:** India
+```text
+Portfolio/
+│
+├── Css/
+│   └── style.css
+│
+├── Js/
+│   ├── data.js
+│   └── script.js
+│
+├── img/
+│   ├── favicon.svg
+│   ├── profile.webp
+│   ├── profile-sm.webp
+│   └── project images
+│
+├── assets/
+│   └── Resume (optional)
+│
+├── index.html
+└── README.md
+```
 
-## Tech Stack & Skills
+## Getting Started
 
-### Frontend Development
-- HTML5, CSS3, JavaScript (ES6+), TypeScript
-- React.js, Next.js
-- Tailwind CSS, Redux, Zustand
-- TanStack Query, Framer Motion, Radix UI
+Follow these steps to run the project locally.
 
-### Backend & Database
-- Node.js, Express.js
-- REST APIs, GraphQL, JWT Authentication
-- MongoDB, Mongoose, MySQL, Firebase, SQL
+### 1. Clone the Repository
 
-### Languages & Data
-- Python
-- Java
-- Power BI
+```bash
+git clone https://github.com/samgupta221/Portfolio.git
+```
 
-### Browser APIs & Libraries
-- WebRTC, Canvas, Web Audio API
-- TensorFlow.js, ReactFlow
-- Recharts, Three.js
+### 2. Navigate to the Project Directory
 
-### Tools & Workflow
-- Git, GitHub, Vite
-- Figma, Jest, Postman
-- Docker, Vercel, Netlify
+```bash
+cd Portfolio
+```
 
-## Experience
+### 3. Run the Website
 
-### Frontend Developer — Webitech Solutions
-**May 2026 – October 2026 | Remote**
+Open `index.html` directly in your browser.
 
-- Developed and maintained responsive, cross-browser user interfaces for client websites and web applications.
-- Built interfaces using HTML, CSS, JavaScript, React and Next.js.
-- Translated Figma designs into reusable, production-ready React components.
-- Collaborated with designers and backend engineers.
-- Participated in code reviews, sprint planning and daily standups.
+You can also use the **Live Server** extension in VS Code for local development.
 
-### Data Analytics Intern — IBM SkillsBuild
-**July 2025 – August 2025**
+## Website Sections
 
-- Completed a Data Analytics internship through IBM SkillsBuild.
-- Worked on data analysis and visualization using Python and Power BI.
+| Section | Description |
+|---|---|
+| Home | Introduction and profile |
+| About | Background and professional interests |
+| Skills | Technical skills and tools |
+| Experience | Work experience and education |
+| Projects | Featured development projects |
+| Achievements | Certifications and accomplishments |
+| Contact | Contact details and message form |
 
-## Featured Projects
+## Customization
 
-### 1. NodeFlow — App Graph Builder
-A service-graph visualization dashboard featuring a connectable node canvas and live node inspector.
+You can customize this portfolio by:
 
-**Key features:**
-- Interactive node canvas
-- Live node inspection
-- API data fetching with TanStack Query
-- Loading, retry and caching states
-- Responsive desktop and mobile layouts
+- Updating personal information in the website content.
+- Adding or modifying projects.
+- Updating images in the `img/` directory.
+- Changing colors, typography and layouts in `Css/style.css`.
+- Modifying interactive functionality in `Js/script.js`.
+- Updating project content in `Js/data.js`.
 
-**Technologies:** React, TypeScript, TanStack Query, Zustand, ReactFlow, Radix UI.
+## Future Improvements
 
-### 2. AlertCam — Thief Detection Alarm
-A real-time object-detection web application that runs entirely on the client side.
+- Add more project demonstrations and live previews.
+- Improve accessibility and performance.
+- Integrate a backend-powered contact form.
+- Add more interactive animations and transitions.
 
-**Key features:**
-- Webcam integration using WebRTC
-- Object detection with TensorFlow.js
-- Bounding-box visualization using HTML5 Canvas
-- Audio alerts using Web Audio API
+## Live Preview
 
-**Technologies:** Next.js, React.js, TensorFlow.js, WebRTC.
+**Portfolio:** [View Repository](https://github.com/samgupta221/Portfolio)
 
-### 3. ApplyIQ — Career Intelligence Platform
-A SaaS-style career dashboard with more than 11 screens.
+## Author
 
-**Key features:**
-- Application tracking
-- Skill-gap analysis
-- Interview intelligence
-- Interactive charts
-- Smooth animations
-- Light and dark themes
+**Samridhi Gupta**
 
-**Technologies:** React 19, Vite, Framer Motion, Recharts.
-
-## Achievements & Certifications
-
-- **GIH 2024 Finalist:** Galgotias International Hackathon (Product Development). Campus Play was shortlisted in the Top 16 among 1,100+ teams.
-- **GDG Solution Challenge 2025:** Built responsive frontend features for a full-stack team solution.
-- **Full Stack Development Course:** Great Learning, 2024.
-- **Data Analytics Internship:** IBM SkillsBuild, 2025.
-
-## Education
-
-**B.Tech — Computer Science Engineering**  
-Dr. A. P. J. Abdul Kalam Technical University  
-2022 – 2026 | GPA: 8.0/10
-
-**Class 12 — CBSE**  
-Saint James Sr. Secondary School  
-2021 | 92.8%
-
-## Portfolio Features
-
-- Modern dark-themed interface
-- Responsive layouts
-- Light and dark mode
-- Interactive navigation
-- Project showcase
-- Experience and education timeline
-- Achievements and certifications
-- Contact form and email integration
-
-## Contact
-
-I'm always open to discussing frontend development opportunities, interesting projects and collaborations.
-
-- **Email:** samridhigupta2523@gmail.com
-- **GitHub:** [samgupta221](https://github.com/samgupta221)
+- GitHub: [@samgupta221](https://github.com/samgupta221)
 
 ---
 
-<p align="center">
-  Designed & developed with care by <strong>Samridhi Gupta</strong>.
-</p>
+If you find this project interesting, feel free to explore the repository and share your feedback.
+
+**Designed and developed with care.**
